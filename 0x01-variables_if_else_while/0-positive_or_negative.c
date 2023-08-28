@@ -5,12 +5,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-/*
- * main - prints if number is positive, negative or zero
+/**
+ * main - Entry point
  *
- * Return: Always (success)
+ * Description: States whether number is positive, negative or zero
+ * @parameter: variables, if, else, while
  *
+ * Return: Always 0 (success)
  */
 
 
